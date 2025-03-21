@@ -12,8 +12,8 @@ winget install Python.Python.3.11 --override "/quiet InstallAllUsers=1 PrependPa
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/subway-outlets-api.git
-cd subway-outlets-api
+git clone https://github.com/MuhammadIrsyad123/MindHive_Assessment.git
+cd MindHive_Assessment
 ```
 
 ### Command to run the application
