@@ -34,3 +34,5 @@ python -m http.server 8080
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 uvicorn main:app --reload
 ```
+
+Run the server on localhost:8080
