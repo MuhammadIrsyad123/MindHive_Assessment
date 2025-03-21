@@ -35,4 +35,8 @@ source env/bin/activate  # On Windows use `env\Scripts\activate`
 uvicorn main:app --reload
 ```
 
-Run the server on localhost:8080
+Run the server on 
+
+http://localhost:8080
+or
+http://127.0.0.1:8080
